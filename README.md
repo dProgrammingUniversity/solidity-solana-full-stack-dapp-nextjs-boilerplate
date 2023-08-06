@@ -1,1 +1,1 @@
-# pnpx-sol-dapp
+## A Solidity Solana Full Stack dApp Nextjs Boilerplate
