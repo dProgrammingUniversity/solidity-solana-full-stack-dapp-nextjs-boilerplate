@@ -1,4 +1,5 @@
 # A Solidity Solana Full Stack dApp Nextjs Boilerplate
+![PC View](https://github.com/dProgrammingUniversity/solidity-solana-full-stack-dapp-nextjs-boilerplate/assets/83863629/8fbd61d8-93cc-46a5-b75f-f0ae76770604)
 
 Hi Friends,
 
@@ -20,6 +21,10 @@ By using or following the whole or part of this content, you agree that we are n
 
 ## Supported Features
 This Solidity Solana dApp starter-kit scaffold frontend has basic features like connecting the Solana wallet adapter, responsive design (PC & Mobile) and more.
+
+Mobile view:
+
+![Mobile view](https://github.com/dProgrammingUniversity/solidity-solana-full-stack-dapp-nextjs-boilerplate/assets/83863629/4e6fdc95-1f4f-4ced-85f6-4ec9aeb5495c) 
 
 To check full features out live, see the demo below:
 
