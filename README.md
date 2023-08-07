@@ -47,6 +47,16 @@ Meanwhile, I have also done a walkthrough video to help even further, watch belo
 
 I have created a dedicated `Solana` channel under `BLOCKCHAINS` in the official [dPU Discord Server](https://dProgrammingUniversity.com/Discord) where you get support for all Solana-related courses, articles, videos and boilerplate created by dPU team!
 
+## Recommended Solang Solidity Resources
+
+I have created some beginner-friendly content to get you started as a Solidity developer transitioning from Ethereum/EVM Blockchains to Solana (and continue to add more).
+
+So, check below to get started:
+
+1. [Ultimate Guide To Solidity For Solana Programs Development with Solang And Anchor](https://dprogramminguniversity.com/solana/ultimate-guide-to-solidity-for-solana-programs-development-with-solang-and-anchor/)
+
+2. [Solang Solidity Solana Program Examples Codes Walkthrough](https://www.youtube.com/watch?v=eQt4yZ_0i3k&list=PL8wScYxE1DQAzhUb1-0qBV2z6t4HUEzrS)
+
 ## Contribution
 
 Open to contribution.
@@ -62,6 +72,8 @@ I am working on using this Solang Solidity Solana boilerplate to create real liv
 That is why you should ensure you stay connected to dPU via the following channels and platforms:
 
 [Website: dProgramming University](https://dProgrammingUniversity.com)
+
+[Subcribe To dPU Youtube Channel](https://dProgrammingUniversity.com/Youtube)
 
 [Twitter: Solomon Foskaay](https://twitter.com/SolomonFoskaay)
 
