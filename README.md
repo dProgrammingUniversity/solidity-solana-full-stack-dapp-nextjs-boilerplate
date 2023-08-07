@@ -43,14 +43,26 @@ It is easier to use following the steps below:
 
 Meanwhile, I have also done a walkthrough video to help even further, watch below:
 
-
 ## Stucked & Need Support?
-I have created a dedicated `Solana` channel under `BLOCKCHAINS` in the official [dPU Discord Server](https://dProgrammingUniversity.com/Discord)
 
+I have created a dedicated `Solana` channel under `BLOCKCHAINS` in the official [dPU Discord Server](https://dProgrammingUniversity.com/Discord) where you get support for all Solana-related courses, articles, videos and boilerplate created by dPU team!
 
 ## Contribution
+
 Open to contribution.
 
 Kindly open an `Issue` first and then mention it in a `PR`.
 
-NOTE: Issues are not the right place to get support, kindly join our Solana support channel in the Discord server above. 
+NOTE: Issues are not the right place to get support, kindly join our Solana support channel in the Discord server above.
+
+## What Next?
+
+I am working on using this Solang Solidity Solana boilerplate to create real live full-stack dApps and would be sharing with you how they are built step-by-step.
+
+That is why you should ensure you stay connected to dPU via the following channels and platforms:
+
+[Website: dProgramming University](https://dProgrammingUniversity.com)
+
+[Twitter: Solomon Foskaay](https://twitter.com/SolomonFoskaay)
+
+[dPU Discord Server](https://dProgrammingUniversity.com/Discord)
